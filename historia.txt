@@ -1,5 +1,7 @@
 Esta es una historia 
-De ejeplo 
+De ejemplo 
+
+Ademas de una correción y adición de texto
 
 
 Fin
